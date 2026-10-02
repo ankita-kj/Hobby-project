@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+fredapi
+jupyter
+scikit-learn
+xgboost
+shap
+python-dotenv
