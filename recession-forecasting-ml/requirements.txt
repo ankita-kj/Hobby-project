@@ -3,8 +3,9 @@ numpy
 matplotlib
 seaborn
 fredapi
-jupyter
+python-dotenv
 scikit-learn
 xgboost
 shap
-python-dotenv
+jupyter
+streamlit
