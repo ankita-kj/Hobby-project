@@ -277,6 +277,3 @@ A future version could use ALFRED real-time vintages, compare multiple forecast 
 
 `Python` · `pandas` · `NumPy` · `scikit-learn` · `XGBoost` · `SHAP` · `FRED API` · `Streamlit` · `Matplotlib` · `Seaborn`
 
-## Disclaimer
-
-This is a research and educational project. Model-estimated probabilities are **not** an official recession forecast, investment recommendation, or financial advice.
